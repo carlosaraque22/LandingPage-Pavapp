@@ -300,6 +300,11 @@
      overflow: hidden;
  }
  
+ footer a {
+     text-decoration: none;
+     display: block;
+ }
+ 
  .contenedor-footer {
      display: flex;
      width: 90%;
